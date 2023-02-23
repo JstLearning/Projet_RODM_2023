@@ -4,7 +4,7 @@ include("utilities.jl")
 function main()
 
     # Pour chaque jeu de données
-    for dataSetName in ["iris", "seeds", "wine"]
+    for dataSetName in ["iris", "seeds", "wine", "thoracic_surgery", "diabetes_data"]
         
         print("=== Dataset ", dataSetName)
 
