@@ -1,4 +1,4 @@
-main()
+main_random_forest()
 === Dataset iris (train size 120, test size 30, 4, features count: 4)
 Attention : le temps est fixé à 30s pour permettre de faire des tests rapides. N'hésitez pas à l'augmenter lors du calcul des résultats finaux que vous intégrerez à votre rapport.
   D = 2
